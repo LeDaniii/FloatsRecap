@@ -48,3 +48,49 @@ nav li {
   margin: 0rem 4rem;
   list-style: none;
 }
+.hero-section {
+  background-image: url(./kjdhegqx.bmp);
+  height: 80rem;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  padding-top: 15rem;
+  text-shadow: 3px 3px 10px black;
+}
+
+.hero-section button {
+  margin-top: 4rem;
+  padding: 1rem 4rem;
+  background: #1f5ca1;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.form-section {
+  text-align: center;
+}
+
+form input,
+form label,
+form textarea {
+  display: block;
+  font-size: 2rem;
+}
+
+form input,
+form textarea {
+  margin: 2rem auto;
+  width: 50%;
+}
+
+form button {
+  margin-bottom: 10rem;
+  padding: 1rem 4rem;
+  background: #1f5ca1;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
